@@ -97,7 +97,7 @@
 </script>
 
 <div class="container">
-	<h1>Todo App..</h1>
+	<h1>Todo App...</h1>
 	<p class="subtitle">Django + Svelte 5</p>
 
 	{#if error}
